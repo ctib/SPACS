@@ -1,7 +1,7 @@
 //programm for Arduino MEGA 2560 for measuring of indoor and outdoor climate
 //project: Measuring Apartment 214 in H12 El Gouna, part of research work at Campus El Gouna
 //Christoph T. I. Banhardt
-//last modified: 08 February 2015
+//last modified: 01 September 2015
 
 //sources: 
 //Temperature and Humidity measurnment with DHT22 by Rob Tillaart, v 0.1.03
